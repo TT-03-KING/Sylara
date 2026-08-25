@@ -5,11 +5,23 @@ Sylara —— 为音乐收藏家打造的精致本地音乐播放器。支持逐
 > 一款为「本地音乐收藏家」量身打造的桌面音乐播放器。  
 > 不联网、不采集、不社交 —— 只专注你拥有的每一首歌。
 
-![Screenshot Placeholder](screenshots/main.png)
+<img width="1053" height="766" alt="首页" src="https://github.com/user-attachments/assets/bd886bc6-07d3-4189-b62f-fec2276a61cc" />
 
 ---
-
+<img width="1053" height="766" alt="多种排版模式" src="https://github.com/user-attachments/assets/ea3b0f13-0e30-46c2-b360-b6a19cee5f15" />
+<img width="1053" height="766" alt="多种排序方式" src="https://github.com/user-attachments/assets/56b45fcf-2168-4a12-980d-9fae1009f52c" />
+设置功能多样
+<img width="1053" height="766" alt="设置功能多" src="https://github.com/user-attachments/assets/9bdba844-75f2-43a6-a961-07d95db414d7" />
+<img width="1053" height="766" alt="多种设置" src="https://github.com/user-attachments/assets/584e99a1-d1f4-49be-b138-626091ff3a8e" />
+<img width="1053" height="766" alt="可在线记录播放" src="https://github.com/user-attachments/assets/9b24b4a6-33fb-4e39-9217-1e13c016985e" />
+可在线记录播放
 ## ✨ 核心亮点
+<img width="1053" height="766" alt="可使用浅色 深色 歌曲封面作为背景三种模式" src="https://github.com/user-attachments/assets/e06c4e4d-7b4a-4d49-8e2a-fd53998cfdbf" />
+<img width="453" height="83" alt="支持多种桌面歌词显示（详细见设置）" src="https://github.com/user-attachments/assets/b82a049d-7e43-44b8-8970-a82ea78fe24e" />
+<img width="1053" height="766" alt="支持收藏导入导出" src="https://github.com/user-attachments/assets/1f376863-2d56-4626-a82c-6e5edddb777f" />
+<img width="1053" height="766" alt="支持歌单 导入导出等" src="https://github.com/user-attachments/assets/a096a7d5-bd03-41ad-bd9b-34259b59951a" />
+<img width="1053" height="766" alt="沉浸歌词模式" src="https://github.com/user-attachments/assets/a082b16f-57e8-4fe6-bafd-34ee04439573" />
+<img width="1053" height="766" alt="多种听歌报告" src="https://github.com/user-attachments/assets/56273775-6b9b-48e0-803d-55c669abebd7" />
 
 ### 🎤 逐字歌词 & 桌面悬浮窗
 - **全屏沉浸歌词页**：逐字高亮（卡拉OK效果），实时跟随播放进度滚动。
